@@ -1,0 +1,11 @@
+D:\Workspace\DotNetCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+D:\Workspace\DotNetCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+D:\Workspace\DotNetCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+D:\Workspace\DotNetCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+D:\Workspace\DotNetCore\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+D:\Workspace\DotNetCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\Workspace\DotNetCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+D:\Workspace\DotNetCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+D:\Workspace\DotNetCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+D:\Workspace\DotNetCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+D:\Workspace\DotNetCore\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
